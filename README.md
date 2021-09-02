@@ -1,3 +1,4 @@
 # luminous
 
-We are currently working on internal process for code release. Code is coming soon. 
+The source code of LUMINOUS is publicaly available at https://github.com/amazon-research/indoor-scene-generation-eai
+
